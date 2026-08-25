@@ -45,7 +45,7 @@ Download `MOAudioWaveformAnalyzer.exe` from [**Releases**](https://github.com/Mr
 
 **Option 2 — Run from source:**
 
-```
+```bash
 git clone https://github.com/MrTOgRaS/MOAudioWaveformAnalyzer.git
 cd MOAudioWaveformAnalyzer
 
@@ -56,13 +56,9 @@ python waveform_analyzer.py
 > [FFmpeg](https://ffmpeg.org/download.html) must be installed and available on your `PATH`.
 
 To update dependencies to their latest versions later:
-```
+```bash
 pip install --upgrade -r requirements.txt
 ```
-
-**Option 3 — Build the EXE yourself:**
-
-Run `build.bat` (or `build.bat upgrade` to also update dependencies first), or see [`README_BUILD.txt`](README_BUILD.txt) for the manual PyInstaller command and how the [GitHub Actions](.github/workflows/build.yml) auto-build works.
 
 ### 🚀 Usage
 
@@ -104,7 +100,7 @@ Run `build.bat` (or `build.bat upgrade` to also update dependencies first), or s
 
 **Seçenek 2 — Kaynak koddan çalıştırma:**
 
-```
+```bash
 git clone https://github.com/MrTOgRaS/MOAudioWaveformAnalyzer.git
 cd MOAudioWaveformAnalyzer
 
@@ -115,13 +111,9 @@ python waveform_analyzer.py
 > [FFmpeg](https://ffmpeg.org/download.html) sisteminizde kurulu ve `PATH`'te olmalıdır.
 
 Paketleri daha sonra en son sürüme yükseltmek için:
-```
+```bash
 pip install --upgrade -r requirements.txt
 ```
-
-**Seçenek 3 — Exe'yi kendiniz derleyin:**
-
-`build.bat`'i çalıştırın (paketleri önce güncellemek için `build.bat upgrade`), ya da elle PyInstaller komutu ve [GitHub Actions](.github/workflows/build.yml) otomatik derleme akışı için [`README_BUILD.txt`](README_BUILD.txt) dosyasına bakın.
 
 ### 🚀 Kullanım
 

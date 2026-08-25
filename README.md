@@ -132,6 +132,6 @@ pip install --upgrade -r requirements.txt
 
 [![Support Me](https://img.shields.io/badge/Support_My_Work-%E2%9D%A4%EF%B8%8F_Click_Here-ea4335?style=for-the-badge)](https://mrtogras.com/support/)
 
-**Developer:** [Murat Oğraş](https://www.mrtogras.com) · [GitHub](https://github.com/MrTOgRaS) · [Email](mailto:destek@mrtogras.com)
+**Developer:** [MrTOgRaS](https://www.mrtogras.com) · [GitHub](https://github.com/MrTOgRaS) · [Email](mailto:destek@mrtogras.com)
 
 **License:** [MIT](LICENSE)

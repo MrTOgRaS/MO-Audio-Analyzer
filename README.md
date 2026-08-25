@@ -10,7 +10,7 @@
 
 [**🇬🇧 English**](#-english) · [**🇹🇷 Türkçe**](#-türkçe)
 
-[![MO Audio Waveform Analyzer](assets/screenshot_en.png)](assets/MOAudioAnalyzer.jpg)
+[![MO Audio Waveform Analyzer](assets/MOAudioAnalyzer.jpg)](assets/MOAudioAnalyzer.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Run `build.bat` (or `build.bat upgrade` to also update dependencies first), or s
 
 ## 🇹🇷 Türkçe
 
-[![MO Audio Waveform Analyzer](assets/screenshot_tr.png)](assets/MOAudioAnalyzer.jpg)
+[![MO Audio Waveform Analyzer](assets/MOAudioAnalyzer.jpg)](assets/MOAudioAnalyzer.jpg)
 
 > **MO Audio Waveform Analyzer**, iki ses dosyasının tepe seviyesini (Peak), gürlüğünü (RMS) ve dinamik aralığını — yan yana, kanal kanal — karşılaştırır ve aradaki farkı sade bir dille özetler. Dublaj masterlarını, platform yeniden kodlamalarını ve çok kanallı (7.1'e kadar) film/dizi ses dosyalarını birbiriyle kıyaslamak için tasarlandı.
 
